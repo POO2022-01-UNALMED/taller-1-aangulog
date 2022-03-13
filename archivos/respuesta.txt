@@ -1,0 +1,1 @@
+Sólo crear la carpeta no es suficiente para crear un commit, necesitas algún archivo como este en ella.
