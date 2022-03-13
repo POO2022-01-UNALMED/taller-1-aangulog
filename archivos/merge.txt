@@ -1,1 +1,6 @@
+
 Andrés Angulo, 22 años, aprender a programar
+
+Ahora sí se puede hacer el commit del hecho que la carpeta no está vacía
+
+Puede crear problemas al sincronizar los archivos desde diferentes computadoras
