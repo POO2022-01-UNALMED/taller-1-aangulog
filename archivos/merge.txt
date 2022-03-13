@@ -1,0 +1,1 @@
+Ahora sí se puede hacer el commit del hecho que la carpeta no está vacía
